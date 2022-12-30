@@ -1,1 +1,1 @@
-funkcjonalność 1.0 + zmiana C
+funkcjonalność 1.0 + zmiana C +  funkcjonalność A
